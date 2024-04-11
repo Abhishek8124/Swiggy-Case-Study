@@ -33,7 +33,7 @@ Project Overview:
 ## Question & Answers
 ### Q1. HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5?
 
-![image](https://github.com/Abhishek8124/Swiggy-Case-Study/assets/166630090/8aaddb11-b9ca-450b-b6de-d0939711bed3)
+![image](https://github.com/Abhishek8124/Swiggy-Case-Study/assets/166630090/ebe6fb60-034c-4627-9c36-ad43d9e9280b)
 
 ![image](https://github.com/Abhishek8124/Swiggy-Case-Study/assets/166630090/f298e8bf-33cf-4fc5-b4ee-00e70558d69f)
 
